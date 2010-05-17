@@ -1,0 +1,9 @@
+== iPhone and C++ OpenGL programming
+
+Sample OpenGL ES 2.0 Skeleton
+
+Coptright 2009 Ignacio Sánchez Ginés
+
+http://www.ignaciosanchezgines.com/2009/08/27/iphone-and-c-opengl-programming/
+
+
